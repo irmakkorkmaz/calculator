@@ -1,0 +1,48 @@
+body{
+    background-color:rgb(214, 203, 203);
+    
+}
+
+
+#calculator {
+ 
+  margin: 0 auto;
+  height: auto;
+  width: 400px;
+  background-color: rgb(160, 133, 184);
+  border: 2px solid;
+  border-radius: 5px;
+  padding: 10px;
+ 
+ 
+  
+  
+}
+
+#indicator {
+  text-align: center;
+  padding: 10px 0px 10px 0px;
+}
+
+#result {
+  border: 2px solid;
+  padding: 10px;
+  border-radius: 10px;
+  width: 80%;
+  text-align: right;
+  word-wrap: break-word;
+  font-size: 30px;
+}
+
+button {
+  width: 80px;
+  height: 40px;
+  margin: 4px;
+  border-radius: 5px;
+  background-color:pink;
+  outline: none;
+}
+
+#buttons {
+  text-align: center;
+}
